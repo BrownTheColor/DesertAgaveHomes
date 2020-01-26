@@ -1,14 +1,3 @@
-/*
-  Theme Name: Regna
-  Theme URL: https://bootstrapmade.com/regna-bootstrap-onepage-template/
-  Author: BootstrapMade.com
-  License: https://bootstrapmade.com/license/
-*/
-
-/*--------------------------------------------------------------
-# General
---------------------------------------------------------------*/
-
 body {
   background: #fff;
   color: #666666;
@@ -510,8 +499,9 @@ body.mobile-nav-active #mobile-nav-toggle {
 #about .about-container .background {
   min-height: 300px;
   max-width: 1000px;
-  background: url(https://mail.google.com/mail/u/0?ui=2&ik=b1ee27af67&attid=0.1&permmsgid=msg-f:1655919227750167867&th=16fb01c3a2c9b53b&view=att&disp=safe) center top no-repeat;
+  background: url(https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTdeVqxkU2oVSxdn_RF8v47uV1Caee1722EKc0jjUqbcRMcX1kl&s) center top no-repeat;
   margin-bottom: 10px;
+  background-size: cover;
 
 }
 
@@ -888,6 +878,7 @@ color: #111;
 
 /* Contact Section
 --------------------------------*/
+
 
 #contact {
   background: #f7f7f7;
